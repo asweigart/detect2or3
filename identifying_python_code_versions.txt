@@ -1,0 +1,11 @@
+Python 2 Qualifiers
+===================
+
+print as a statement, without parentheses
+raw_input()
+
+
+Python 3 Qualifiers
+===================
+
+print() with end or sep keywords
